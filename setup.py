@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="projetopyhon",  # Nome do pacote
+    name="program",  # Nome do pacote
     version="0.1.0",  # Versão do pacote
     author="",
     author_email="seu.email@exemplo.com",
